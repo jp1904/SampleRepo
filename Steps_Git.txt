@@ -1,0 +1,19 @@
+$ git config --global user.name "jp1904"
+
+$ git config --global user.email "lavdyavathjayaprakash19@gmail.com"
+
+$ git init
+
+$ git status
+
+$ git add Second.txt
+
+$ git commit -m "Added second text file"
+
+$ git remote add origin https://github.com/jp1904/SampleRepo.git
+
+$ git branch -M main
+
+$ git push -u origin main
+
+$ git pull https://github.com/jp1904/SampleRepo.git
